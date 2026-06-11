@@ -2,16 +2,10 @@
 
 # 👑 🌟 Mr. Muneeb Ali 🌟 👑
 
-<!-- STYLISH LINE BY LINE MOVING TEXT EFFECT -->
-<div style="background-color: #0d1117; padding: 10px; border-radius: 8px; border: 1px solid #9c27b0; margin-bottom: 10px;">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 22px; font-weight: bold; color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block; margin-bottom: 5px;">
-    🔥 <b>Mr. Muneeb Ali</b> 🔥
-  </marquee>
-  <marquee behavior="scroll" direction="right" scrollamount="4" style="font-size: 18px; font-weight: bold; color: #ff007f; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block; margin-bottom: 5px;">
-    ✨ <b>Kaisi lagi repo?</b> ✨
-  </marquee>
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 16px; font-weight: 600; color: #ffcc00; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block;">
-    💬 <b>Mujhse rabta karne ke liye WhatsApp wale button ko click karo!</b> 💬
+<!-- ONE BY ONE SEPARATE MOVING TEXT EFFECT -->
+<div style="background-color: #0d1117; padding: 12px; border-radius: 8px; border: 1px solid #9c27b0; margin-bottom: 10px; overflow: hidden;">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 20px; font-weight: bold; color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; white-space: nowrap;">
+    🔥 <b>Mr. Muneeb Ali</b> 🔥 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b>Kaisi lagi repo?</b> ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 <b>Mujhse rabta karne ke liye WhatsApp wale button ko click karo!</b> 💬
   </marquee>
 </div>
 
