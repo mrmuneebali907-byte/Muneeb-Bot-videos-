@@ -2,14 +2,10 @@
 
 # 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
 
-<!-- 100% PURE HTML/CSS TEXT LINES (NO EXTERNAL LINKS) -->
-<div style="font-family: 'Arial Black', Gadget, sans-serif; font-size: 26px; font-weight: 900; line-height: 1.6; margin-bottom: 15px;">
-  <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">🔥 Mr. Muneeb Ali 🔥</span><br>
-  <span style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF; font-size: 22px;">✨ Kaisi lagi repo? ✨</span><br>
-  <span style="color: #FFCC00; text-shadow: 0 0 10px #FFCC00; font-size: 18px;">💬 WhatsApp Button Click Karo! 💬</span>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&fontStyle=bold&fontSize=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&height=70&lines=🔥+Mr.+Muneeb+Ali+🔥;✨+Kaisi+lagi+repo%3F+✨;💬+WhatsApp+Button+Click+Karo!+💬" alt="Muneeb Typing Animation" />
 
-<!-- MAIN BANNER IMAGE -->
+<br>
+
 <img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/file_0000000075e4722f91e5deb5ba0dded0.png" width="100%" alt="Muneeb Bot Cover" />
 
 ---
@@ -19,7 +15,6 @@
 
 ---
 
-<!-- STYLISH BUTTONS SECTION -->
 <h2>🌐 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖂𝖎𝖙𝖍 𝕸𝖊 🌐</h2>
 
 <a href="https://wa.me/923329838699" target="_blank">
@@ -52,6 +47,6 @@ This repository securely hosts high-speed media resources for Mr. Muneeb's Whats
 
 ---
 <div align="center">
- ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
+ ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊ゑ𝖇 𝕬𝖑𝖎</b> ⚡
 </div>
 𝕸𝖗
