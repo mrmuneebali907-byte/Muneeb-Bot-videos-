@@ -1,24 +1,32 @@
 <div align="center">
 
-# 👑 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
+# 👑 🌟 Mr. Muneeb Ali 🌟 👑
 
-<!-- STYLISH MOVING TEXT OVER IMAGE EFFECT -->
-<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 20px; font-weight: bold; color: #9c27b0; font-family: 'Courier New', Courier, monospace;">
-✨ 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 ✨ | 🌟 𝕶𝖆𝖎𝖘𝖎 𝖑𝖆𝖌𝖎 𝖗𝖊𝖕𝖔? 🌟 | 💬 𝕸𝖚𝖏𝖍𝖘𝖊 𝖗𝖆 Cornelius 𝖐𝖆𝖗𝖓𝖊 𝖐𝖊 𝖑𝖎𝖞𝖊 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝖜𝖆𝖑𝖊 𝖇𝖚𝖙𝖙𝖔𝖓 𝖐𝖔 𝖈𝖑𝖎𝖈𝖐 𝖐𝖆𝖗𝖔! 💬
-</marquee>
+<!-- STYLISH LINE BY LINE MOVING TEXT EFFECT -->
+<div style="background-color: #0d1117; padding: 10px; border-radius: 8px; border: 1px solid #9c27b0; margin-bottom: 10px;">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 22px; font-weight: bold; color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block; margin-bottom: 5px;">
+    🔥 <b>Mr. Muneeb Ali</b> 🔥
+  </marquee>
+  <marquee behavior="scroll" direction="right" scrollamount="4" style="font-size: 18px; font-weight: bold; color: #ff007f; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block; margin-bottom: 5px;">
+    ✨ <b>Kaisi lagi repo?</b> ✨
+  </marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 16px; font-weight: 600; color: #ffcc00; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: block;">
+    💬 <b>Mujhse rabta karne ke liye WhatsApp wale button ko click karo!</b> 💬
+  </marquee>
+</div>
 
-<!-- CORRECT IMAGE SOURCE LINK FROM YOUR REPO -->
+<!-- MAIN BANNER IMAGE -->
 <img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/file_0000000075e4722f91e5deb5ba0dded0.png" width="100%" alt="Muneeb Bot Cover" />
 
 ---
 
-### 🌟 𝓣𝓱𝓮 𝓟𝓻𝓮𝓶𝓲𝓾𝓶 𝓜𝓮𝓭𝓲𝓪 𝓗𝓾𝓿 & 𝓒𝓵𝓸𝓾𝓭 𝓒𝓸𝓻𝓮 🌟
-🔥 *𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒 𝖔𝖋 𝕸𝖚𝖓𝖊𝖊𝖇 featured 𝕭𝖔𝖙* 🔥
+### 🌟 The Premium Media Hub & Cloud Core 🌟
+🔥 *Welcome to the Official Ecosystem of Muneeb Bot* 🔥
 
 ---
 
 <!-- STYLISH BUTTONS SECTION -->
-<h2>🌐 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖂𝖎𝖙𝖍 𝕸𝖊 🌐</h2>
+<h2>🌐 Connect With Me 🌐</h2>
 
 <a href="https://wa.me/923329838699" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -40,7 +48,7 @@
 
 </div>
 
-## 📦 𝕸𝖊𝖉𝖎𝖆 𝕬𝖘𝖘𝖊𝖙𝖘 𝕾𝖙𝖆𝖙𝖚𝖘
+## 📦 Media Assets Status
 This repository securely hosts high-speed media resources for Mr. Muneeb's WhatsApp automation frameworks, guaranteeing maximum uptime.
 
 | 🎬 File Name | 🛡️ Purpose | 🟢 Status |
@@ -50,5 +58,5 @@ This repository securely hosts high-speed media resources for Mr. Muneeb's Whats
 
 ---
 <div align="center">
- ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
+ ⚡ <b>Made with passion by Mr. Muneeb Ali</b> ⚡
 </div>
