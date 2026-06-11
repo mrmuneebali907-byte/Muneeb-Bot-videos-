@@ -2,7 +2,13 @@
 
 # 👑 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
 
-<img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/IMG-20260422-WA0484.jpg" width="100%" alt="Muneeb Bot Cover" />
+<!-- STYLISH MOVING TEXT OVER IMAGE EFFECT -->
+<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size: 20px; font-weight: bold; color: #9c27b0; font-family: 'Courier New', Courier, monospace;">
+✨ 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 ✨ | 🌟 𝕶𝖆𝖎𝖘𝖎 𝖑𝖆𝖌𝖎 𝖗𝖊𝖕𝖔? 🌟 | 💬 𝕸𝖚𝖏𝖍𝖘𝖊 𝖗𝖆 Cornelius 𝖐𝖆𝖗𝖓𝖊 𝖐𝖊 𝖑𝖎𝖞𝖊 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝖜𝖆𝖑𝖊 𝖇𝖚𝖙𝖙𝖔𝖓 𝖐𝖔 𝖈𝖑𝖎𝖈𝖐 𝖐𝖆𝖗𝖔! 💬
+</marquee>
+
+<!-- CORRECT IMAGE SOURCE LINK FROM YOUR REPO -->
+<img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/file_0000000075e4722f91e5deb5ba0dded0.png" width="100%" alt="Muneeb Bot Cover" />
 
 ---
 
@@ -44,6 +50,5 @@ This repository securely hosts high-speed media resources for Mr. Muneeb's Whats
 
 ---
 <div align="center">
- ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔𝖓 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
+ ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
 </div>
-
