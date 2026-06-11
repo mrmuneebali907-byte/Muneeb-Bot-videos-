@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👑 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
+# 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
 
-<!-- ONLY TYPING TEXT IS BOLD & VISIBLE, REST IS STYLISH AS BEFORE -->
-<img src="https://readme-typing-svg.demolab.com?font=Arial+Black&fontStyle=bold&fontSize=32&duration=4000&pause=1200&color=FF00FF&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=🔥+Mr.+Muneeb+Ali+🔥;✨+Kaisi+lagi+repo%3F+✨;💬+WhatsApp+Button+Click+Karo!+💬" alt="Muneeb Typing Animation" />
-
-<br>
+<!-- 100% PURE HTML/CSS TEXT LINES (NO EXTERNAL LINKS) -->
+<div style="font-family: 'Arial Black', Gadget, sans-serif; font-size: 26px; font-weight: 900; line-height: 1.6; margin-bottom: 15px;">
+  <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">🔥 Mr. Muneeb Ali 🔥</span><br>
+  <span style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF; font-size: 22px;">✨ Kaisi lagi repo? ✨</span><br>
+  <span style="color: #FFCC00; text-shadow: 0 0 10px #FFCC00; font-size: 18px;">💬 WhatsApp Button Click Karo! 💬</span>
+</div>
 
 <!-- MAIN BANNER IMAGE -->
 <img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/file_0000000075e4722f91e5deb5ba0dded0.png" width="100%" alt="Muneeb Bot Cover" />
@@ -52,3 +54,4 @@ This repository securely hosts high-speed media resources for Mr. Muneeb's Whats
 <div align="center">
  ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
 </div>
+𝕸𝖗
