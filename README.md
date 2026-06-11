@@ -1,13 +1,11 @@
 <div align="center">
 
-# 👑 🌟 Mr. Muneeb Ali 🌟 👑
+# 👑 Mr. Muneeb Ali 👑
 
-<!-- ONE BY ONE SEPARATE MOVING TEXT EFFECT -->
-<div style="background-color: #0d1117; padding: 12px; border-radius: 8px; border: 1px solid #9c27b0; margin-bottom: 10px; overflow: hidden;">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 20px; font-weight: bold; color: #00ffcc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; white-space: nowrap;">
-    🔥 <b>Mr. Muneeb Ali</b> 🔥 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ <b>Kaisi lagi repo?</b> ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💬 <b>Mujhse rabta karne ke liye WhatsApp wale button ko click karo!</b> 💬
-  </marquee>
-</div>
+<!-- ADVANCED LINE-BY-LINE TYPING ANIMATION (EACH TEXT SEPARATE) -->
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&fontStyle=bold&fontSize=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Mr.+Muneeb+Ali;Kaisi+lagi+repo%3F;Mujhse+rabta+karne+ke+liye+WhatsApp+button+click+karo!" alt="Typing Animation" />
+
+<br>
 
 <!-- MAIN BANNER IMAGE -->
 <img src="https://raw.githubusercontent.com/mrmuneebali907-byte/Muneeb-Bot-videos-/main/file_0000000075e4722f91e5deb5ba0dded0.png" width="100%" alt="Muneeb Bot Cover" />
