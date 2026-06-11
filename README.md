@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👑 Mr. Muneeb Ali 👑
+# 👑 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎 👑
 
-<!-- ADVANCED LINE-BY-LINE TYPING ANIMATION (EACH TEXT SEPARATE) -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&fontStyle=bold&fontSize=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Mr.+Muneeb+Ali;Kaisi+lagi+repo%3F;Mujhse+rabta+karne+ke+liye+WhatsApp+button+click+karo!" alt="Typing Animation" />
+<!-- ONLY TYPING TEXT IS BOLD & VISIBLE, REST IS STYLISH AS BEFORE -->
+<img src="https://readme-typing-svg.demolab.com?font=Arial+Black&fontStyle=bold&fontSize=32&duration=4000&pause=1200&color=FF00FF&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=🔥+Mr.+Muneeb+Ali+🔥;✨+Kaisi+lagi+repo%3F+✨;💬+WhatsApp+Button+Click+Karo!+💬" alt="Muneeb Typing Animation" />
 
 <br>
 
@@ -12,13 +12,13 @@
 
 ---
 
-### 🌟 The Premium Media Hub & Cloud Core 🌟
-🔥 *Welcome to the Official Ecosystem of Muneeb Bot* 🔥
+### 🌟 𝓣𝓱𝓮 𝓟𝓻𝓮𝓶𝓲𝓾𝓶 𝓜𝓮𝓭𝓲α 𝓗𝓾𝓿 & 𝓒𝓵𝓸𝓾𝓭 𝓒𝓸𝓻𝓮 🌟
+🔥 *𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒 𝖔𝖋 𝕸𝖚𝖓𝖊𝖊𝖇 featured 𝕭𝖔𝖙* 🔥
 
 ---
 
 <!-- STYLISH BUTTONS SECTION -->
-<h2>🌐 Connect With Me 🌐</h2>
+<h2>🌐 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖂𝖎𝖙𝖍 𝕸𝖊 🌐</h2>
 
 <a href="https://wa.me/923329838699" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -40,7 +40,7 @@
 
 </div>
 
-## 📦 Media Assets Status
+## 📦 𝕸𝖊𝖉𝖎𝖆 𝕬𝖘𝖘𝖊𝖙𝖘 𝕾𝖙𝖆𝖙𝖚𝖘
 This repository securely hosts high-speed media resources for Mr. Muneeb's WhatsApp automation frameworks, guaranteeing maximum uptime.
 
 | 🎬 File Name | 🛡️ Purpose | 🟢 Status |
@@ -50,5 +50,5 @@ This repository securely hosts high-speed media resources for Mr. Muneeb's Whats
 
 ---
 <div align="center">
- ⚡ <b>Made with passion by Mr. Muneeb Ali</b> ⚡
+ ⚡ <b>𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔ⓝ 𝖇𝖞 𝕸𝖗. 𝕸𝖚𝖓𝖊𝖊𝖇 𝕬𝖑𝖎</b> ⚡
 </div>
